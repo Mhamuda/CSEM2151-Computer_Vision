@@ -8,6 +8,8 @@
 
 #### 3. Image enhancement and restoration using Convolutional Neural Networks (CNNs) and Multi-scale Residual Network (MIRNet).
 
+#### 4. Image generation using Variational Autoencoder (VAE), Denoising Diffusion Probabilistic Model (DDPM), and Latent Diffusion Model (LDM).
+
 -------------
 ## Author
 
