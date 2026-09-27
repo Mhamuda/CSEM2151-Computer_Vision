@@ -20,6 +20,8 @@
 
 #### 9. CNN operations and performance comparison across regular, 1x1 pointwise, deformable, dilated, and depthwise separable convolution kernels.
 
+#### 10. Semantic image segmentation benchmark comparison across baseline architectures (U-Net, U-Net++, FPN, Attention U-Net, BASNet, DeepLabV3+, SegFormer) and proposed ABR-U-Net on Oxford-IIIT Pet and custom mobile datasets.
+
 -------------
 ## Author
 
