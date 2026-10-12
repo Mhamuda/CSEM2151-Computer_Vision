@@ -22,9 +22,16 @@
 
 #### 10. Semantic image segmentation benchmark comparison across baseline architectures (U-Net, U-Net++, FPN, Attention U-Net, BASNet, DeepLabV3+, SegFormer) and proposed ABR-U-Net on Oxford-IIIT Pet and custom mobile datasets.
 
+#### 11. Custom object detection and fine-tuning using YOLO on real-world datasets with pre-trained model comparison.
+
+#### 12. Progressive Growing GAN (ProGAN) for synthetic image generation across resolutions ($32\times32$ to $128\times128$) on CIFAR-10.
+
+#### 13. Comparative evaluation of prompt-guided animal body-part segmentation and description using conventional CV models versus Vision-Language Models (VLMs).
+
 -------------
 ## Author
 
 **Mst. Mhamuda Khatun**  
 Department of Computer Science and Engineering  
-University of Rajshahi
+University of Rajshahi  
+Student ID: 1912076104
